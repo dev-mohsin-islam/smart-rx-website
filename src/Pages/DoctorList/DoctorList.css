@@ -1,0 +1,22 @@
+.card{
+    width: 18rem;
+    padding: 1px;
+    border: 1px solid gray;
+}
+#card-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+#title{
+    margin-top: -150px;
+    background-color: blue;
+    color: white;
+    opacity: 80%;
+}
+
+#patient-area ul li{
+    list-style: none;
+}
+.modal-content{
+    width: 700px;
+}
